@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    height: 300vh;
+}
+.mySvg{
+    height: 100px;
+    width: 100px;
+    color: yellow;
+    fill: yellow;
+   
+   
+}
+
+
+.fa-linkedin{
+    font-size: 150px;
+    color: red;
+   /*  position: sticky;
+    top: 0; */
+  
+  /*   text-shadow: 0 0 12px rgb(56, 225, 30) !important; kolge vermek ucun */
+}
+a{
+    text-decoration: none;
+    color: black;
+   
+}
+
+
+p{
+  /*   text-align: right;   metbi saag getirmek */
+  /*   text-align: left;  metni sola */
+  /* text-align: center;   metni ortaya */
+ /*  text-align: justify;  tam seliqeye salir sag sol kunce sixir*/
+   /*  text-align-last: center;  metnini osn hisseni ortaya alir */
+  /*  text-align-last:right; son hisseni saga
+ */
+/* text-align-last:justify ; son hisseni her teref beraber paylayir */
+
+/* text-transform: uppercase; metni boyudur*/
+/* text-transform: lowercase; metni kicildir */
+/* text-transform: capitalize; metinin cumlelerini bas herbi boyudur */
+
+/* text-indent: 50px;  abzas vermek ucun*/
+
+/* letter-spacing: 5px; heriflerin ara mesafesni boyutkem ucun */
+
+/* line-height: 40px;  abzaslara ara mesafrsi vermek ucun */
+
+/* word-spacing: 40px;  sozlere ara mesafesi vermek ucun */
+ 
+
+
+
+}
+
+div{
+    background-color: aqua;
+  /*   display: inline; inline elemente cevirmek ucun block elementini  */
+/* display: none; elementi silir */
+/* display:block;  elemetni qaytarrir */
+/* visibility: hidden; gizledir */
+/* visibility: visible; gizledilen elementi gostermek ucun */
+/* opacity: 0.5;  seffaflasdiri*/
+/*  z-index: 100 !important; elementin durdugu 0 yerini musber ve menfiye deyisirik */
+
+
+}
+
+
+.div2{
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+   /*  position: relative;  */
+   
+  /*  position: static;  default veziyyeti*/
+}
